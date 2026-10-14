@@ -396,6 +396,7 @@
     <string name="key_back">返回键</string>
     <string name="key_home">主页键</string>
     <string name="key_menu">菜单键</string>
+    <string name="key_assist">帮助键</string>
     <string name="key_app_switch">最近任务键</string>
     <string name="key_mode_click">单击</string>
     <string name="key_mode_double_click">双击</string>

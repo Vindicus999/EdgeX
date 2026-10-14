@@ -35,7 +35,8 @@ object KeyManager {
     val SUPPORTED_KEYS = mapOf(
         KeyEvent.KEYCODE_VOLUME_UP to 0,
         KeyEvent.KEYCODE_VOLUME_DOWN to 1,
-        KeyEvent.KEYCODE_POWER to 2
+        KeyEvent.KEYCODE_POWER to 2,
+        KeyEvent.KEYCODE_ASSIST to 3
     )
 
     // State machine states

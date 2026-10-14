@@ -108,6 +108,7 @@ private val keyItems = listOf(
     KeyUiItem(KeyEvent.KEYCODE_VOLUME_UP, R.string.key_volume_up, EdgeXIcons.VolumeUp),
     KeyUiItem(KeyEvent.KEYCODE_VOLUME_DOWN, R.string.key_volume_down, EdgeXIcons.VolumeDown),
     KeyUiItem(KeyEvent.KEYCODE_POWER, R.string.key_power, EdgeXIcons.Power),
+    KeyUiItem(KeyEvent.KEYCODE_ASSIST, R.string.key_assist, EdgeXIcons.Search),
 )
 
 private val keyTriggers = listOf(

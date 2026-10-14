@@ -484,6 +484,7 @@
     <string name="key_back">Back</string>
     <string name="key_home">Home</string>
     <string name="key_menu">Menu</string>
+    <string name="key_assist">Assist</string>
     <string name="key_app_switch">App Switch</string>
     <string name="key_mode_click">Click</string>
     <string name="key_mode_double_click">Double Click</string>
